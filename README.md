@@ -1,4 +1,4 @@
-#awesome-devtools
+#devtools
 
 > A curated list of developer tools
 
