@@ -1,45 +1,47 @@
-awesome-devtools
+#awesome-devtools
 ================
+ A curated list of developer tools
 
-A curated list of developer tools
-
-*text editors*
-================
-+ <a href="https://github.com/atom">Atom </a>: A hackable text editor for the 21st Century <br>
-+ <a href="http://www.gnu.org/software/emacs/">: Emacs </a> <br>
-+ <a href="http://www.vim.org/"> Vim</a><br>
-+ <a href="http://www.sublimetext.com/"> Sublime Text</a><br>
-+ <a href="https://github.com/limetext/lime"> Lime</a> : Open source API-compatible alternative to Sublime Text<br>
-+ <a href="http://www.scintilla.org/SciTE.html"> SciTE</a> : SciTE is a lightweight, yet powerful, portable and flexible text editor.<br>
-+ <a href="http://macromates.com/"> TextMate</a> [only for mac]<br>
-+ <a href="http://brackets.io/"> Brackets</a> : A community guided, open source project to push web development editors to the next level.<br>
-+ <a href="http://www.gnu.org/fun/jokes/ed-msg.txt"> ED </a> : Ed has a consistent user interface and error reportage?<br>
-+ <a href="http://portablegvim.sourceforge.net/"> GVim</a> : All the best of vim, but with greater performance and flexibility in font, color, and display.<br>
-+ <a href="http://www.pspad.com/"> PSPad</a> : PSPad - editor for developers for Microsoft Windows systems<br>
-+ <a href="http://www.pnotepad.org/">Programmer's Notepad </a> : Programmer's Notepad is a lightweight text editor aimed at programmers<br>
-+ <a href="https://code.google.com/p/macvim/">MacVim </a> : The one text editor on unix. For Mac.<br>
-+ <a href="https://github.com/slap-editor/slap"> slap </a> : a Sublime-like terminal-based text editor that strives to make editing from the terminal easier.<br>
-+ <a href="https://www.nevron.com/products-open-vision-nov-rich-text-editor-control-overview.aspx"> NOV Rich Text Editor </a>  : Advanced text and document processing control for .NET<br>
-+ <a href="http://www.flashdevelop.org/"> FlashDevelop </a> : FlashDevelop offers first class support for ActionScript (2 & 3) and Haxe development<br>
-+ <a href="http://www.ultraedit.com/">  UltraEdit  </a> : Simply the world's best text editor. (Paid)<br>
-+ <a href="http://projects.gnome.org/gedit/"> Gedit </a>  :  the official text editor for the GNOME desktop<br>
-+ <a href="http://beaver-editor.sourceforge.net/">Beaver </a> : unix only editor<br>
-+ <a href="http://soft.kaworu.it/wxKonTEXTen.htm"> wxKonTEXT </a> : Simple text editor written in python.<br>
+## text editors
 
 
-*IDE*
-================
-+ <a href="http://komodoide.com/komodo-edit/"> Komodo Edit </a> :Komodo Edit is the free and Open-Source counterpart of Komodo IDE.<br>
-+ <a href="http://www.jetbrains.com/ruby/">RubyMine </a> <br>
-+ <a href="http://codelite.org/">CodeLite IDE </a> : CodeLIte IDE, an open source C/C+ +  IDE<br>
-+ <a href="https://netbeans.org/"> Netbeans </a> <br>
-+ <a href="http://www.eclipse.org/"> Eclipse </a> <br>
-+ <a href="http://anjuta.sourceforge.net/"> Anjuta </a>  : Cross-language IDE<br>
-+ <a href="http://www.codeblocks.org/features"> Code::Blocks </a> <br>
-+ <a href="http://bluefish.openoffice.nl/features.html"> Bluefish </a> <br>
-+ <a href="http://cream.sourceforge.net/"> Cream </a> <br>
-+ <a href="http://wingware.com/wingide"> Wing IDE </a> <br>
-+ <a href="http://code.google.com/p/spyderlib/"> Spyder</a> <br>
+ - [Atom] (https://github.com/atom): A hackable text editor for the 21st Century 
+ - [Emacs] (http://www.gnu.org/software/emacs/)
+ - [Vim] (http://www.vim.org/)
+ - [Sublime Text] (http://www.sublimetext.com/)
+ - [Lime] (https://github.com/limetext/lime) : Open source API-compatible alternative to Sublime Text
+ - [SciTE] (http://www.scintilla.org/SciTE.html)  : SciTE is a lightweight, yet powerful, portable and flexible text editor.
+ - [TextMate] (http://macromates.com/ )
+ - [Brackets] (http://brackets.io/)  A community guided, open source project to push web development editors to the next level.
+ - [ED] (http://www.gnu.org/fun/jokes/ed-msg.txt)
+ - [GVim] (http://portablegvim.sourceforge.net/) : All the best of vim, but with greater performance and flexibility in font, color, and display.
+ - [PSPad] ( http://www.pspad.com/) : editor for developers for Microsoft Windows systems
+ - [Programmer's Notepad] (http://www.pnotepad.org/) : Programmer's Notepad is a lightweight text editor aimed at programmers
+ - [MacVim] (https://code.google.com/p/macvim/MacVim) : The one text editor on unix. For Mac.
+ - [slap] ( https://github.com/slap-editor/slap) : a Sublime-like terminal-based text editor that strives to make editing from the terminal easier.
+ - [NOV Rich Text Editor] (https://www.nevron.com/products-open-vision-nov-rich-text-editor-control-overview.aspx) : Advanced text and document processing control for .NET
+ - [FlashDevelop] ( http://www.flashdevelop.org/) : FlashDevelop offers first class support for ActionScript (2 & 3) and Haxe development
+ - [UltraEdit] (http://www.ultraedit.com/) : Simply the world's best text editor. Paid.
+ - [Gedit] (http://projects.gnome.org/gedit/)  :  the official text editor for the GNOME desktop
+ - [Beaver] (http://beaver-editor.sourceforge.net/)  : unix only editor
+ - [wxKonTEXT] (http://soft.kaworu.it/wxKonTEXTen.htm)  : Simple text editor written in python.
+  
+
+##IDE
+
+ - [Komodo Edit] (http://komodoide.com/komodo-edit/ ) :Komodo Edit is the free and Open-Source counterpart of Komodo IDE
+ - [RubyMine] (http://www.jetbrains.com/ruby/)
+ - [CodeLite IDE ] ( http://codelite.org/ ) : CodeLIte IDE, an open source C/Cpp
+ - [Netbeans] (https://netbeans.org/)     
+ - [Eclipse] ( http://www.eclipse.org/  )     
+ - [ Anjuta ] (http://anjuta.sourceforge.net/)     
+ - [Code::Blocks ] (http://www.codeblocks.org/features  )     
+ - [Bluefish] (http://bluefish.openoffice.nl/features.html)     
+ - [Cream] (http://cream.sourceforge.net/)     
+ - [ Wing IDE ] (http://wingware.com/wingide)     
+ - [Spyder] ( http://code.google.com/p/spyderlib/)
+ - [Android Studio] (tools.android.com/download/studio)
 
 
-***Note: Obviously I haven't included all the IDE's and editors in the wild out there, please contribute if I have missed out your favourite editor.***
+
+Note: Obviously I haven't included all the IDE's and editors in the wild out there, please contribute if I have missed out your favourite editor or IDE.
