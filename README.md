@@ -1,6 +1,6 @@
 #awesome-devtools
-================
- A curated list of developer tools
+
+> A curated list of developer tools
 
 ## text editors
 
