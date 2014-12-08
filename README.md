@@ -28,19 +28,22 @@
   
 
 ##IDE
-
+ - [Geany] (www.geany.org) This is a extremely light weight IDE with a very simple design and it is open source! 
  - [Komodo Edit] (http://komodoide.com/komodo-edit/ ) :Komodo Edit is the free and Open-Source counterpart of Komodo IDE
  - [RubyMine] (http://www.jetbrains.com/ruby/)
  - [CodeLite IDE ] ( http://codelite.org/ ) : CodeLIte IDE, an open source C/Cpp
- - [Netbeans] (https://netbeans.org/)     
- - [Eclipse] ( http://www.eclipse.org/  )     
+ - [Netbeans] (https://netbeans.org/)     Has plugins for multiple languages
+ - [Eclipse] ( http://www.eclipse.org/  )     Has plugins for multiple languages
  - [ Anjuta ] (http://anjuta.sourceforge.net/)     
- - [Code::Blocks ] (http://www.codeblocks.org/features  )     
- - [Bluefish] (http://bluefish.openoffice.nl/features.html)     
+ - [Code::Blocks ] (http://www.codeblocks.org/features  ) A cross platform IDE
+ - [Bluefish] (http://bluefish.openoffice.nl/features.html) Typically used for webdevelopment
  - [Cream] (http://cream.sourceforge.net/)     
  - [ Wing IDE ] (http://wingware.com/wingide)     
- - [Spyder] ( http://code.google.com/p/spyderlib/)
+ - [Spyder] ( http://code.google.com/p/spyderlib/) specifically for python
  - [Android Studio] (tools.android.com/download/studio)
+ - [Aptana] (http://www.aptana.com/) : Has plugins for multiple languages
+ - [RedCar] (http://redcareditor.com/) 
+
 
 
 
